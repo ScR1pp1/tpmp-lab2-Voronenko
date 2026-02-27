@@ -1,3 +1,6 @@
 [submodule "tpmp-lab2-task3-Voronenko"]
 	path = tpmp-lab2-task3-Voronenko
 	url = git@github.com:ScR1pp1/tpmp-lab2-task3-Voronenko.git
+[submodule "tpmp-lab2-task4-Voronenko"]
+	path = tpmp-lab2-task4-Voronenko
+	url = git@github.com:ScR1pp1/tpmp-lab2-task4-Voronenko.git
